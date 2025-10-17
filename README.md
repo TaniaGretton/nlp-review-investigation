@@ -1,8 +1,7 @@
 # Review Analysis
 
-In this exercise, you will go back to the Olist dataset.
+I go back to the Olist dataset.
 
-Your task is to investigate reviews to understand what causes the bad review scores.
+The task is to investigate reviews and to understand what causes the bad review scores.
 
-Your turn! 🚀
 # nlp-review-investigation
